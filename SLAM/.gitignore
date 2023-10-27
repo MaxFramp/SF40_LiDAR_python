@@ -1,0 +1,10 @@
+.DS_Store
+.idea/*
+data/*
+__pycache__
+
+*.txt
+*.pcd
+*.jpg
+figures/*
+*.json
